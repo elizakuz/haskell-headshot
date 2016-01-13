@@ -1,8 +1,10 @@
-module Graph where
+﻿module Graph where
 
 import Data.List 
 import Data.Maybe
 import Data.Tuple
+
+--try
 
 -- График целочисленной функции f --- это список пар (x, y), такой, что 
 -- f (x) = y <=> пара (x, y) входит в этот список. Гарантируется, что
